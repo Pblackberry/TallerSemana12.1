@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int ingresarOpcion(){
     int opcion=0;
     printf("1. Ingresar Mascota\n");

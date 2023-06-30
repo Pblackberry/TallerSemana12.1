@@ -2,6 +2,7 @@
 #include "funciones.h"
 
 
+
 int main (int argc, char *argv[]) {
     int condicion, servicio;
     int id, edad, ids1, ids2, ids3, precio1, precio2, precio3;
